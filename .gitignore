@@ -1,0 +1,6 @@
+.vscode
+.idea
+.DS_Store
+media-files
+static-files
+node_modules
