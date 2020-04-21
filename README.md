@@ -1,2 +1,2 @@
 # pricing
-A pricing website using Next.js and React 
+Pricing website using Next.js and React 
